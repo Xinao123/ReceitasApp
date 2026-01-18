@@ -52,7 +52,7 @@ O foco é: UX simples, rápido, bonito e pronto pra escalar.
 - JSON Schema strict output
 
 
-🇺🇸 English (EN)
+## 🇺🇸 English (EN)
 Recipe app built with Kotlin + Jetpack Compose, featuring Firebase (Auth + Firestore) and an AI that generates 3 complete suggestions using a Cloudflare Worker (OpenAI).
 
 Focus: Simple UX, fast, beautiful, and ready to scale.
